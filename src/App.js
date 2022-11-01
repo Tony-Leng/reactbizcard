@@ -1,5 +1,5 @@
 import React from 'react'
-// import ReactDOM from 'react-dom'
+import ReactDOM from 'react-dom'
 import About from './components/About'
 import Footer from './components/Footer'
 import Info from './components/Info'
@@ -17,4 +17,4 @@ export default function App() {
     )
 }
 
-// ReactDOM.render(<App />, document.getElementById('root'))
+ReactDOM.render(<App />, document.getElementById('root'))
