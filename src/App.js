@@ -8,7 +8,6 @@ import Interests from './components/Interests'
 export default function App() {
     return (
         <div>
-            <h1>Hello, it's me...</h1>
             <Info />
             <About />
             <Interests />
